@@ -16,7 +16,7 @@
 
 ;; To install, put this file somewhere in your load-path and add the following
 ;; to your .emacs file:
-;;(require 'pager-default-keybindings)
+;; (require 'pager-default-keybindings)
 
 ;;; License:
 
