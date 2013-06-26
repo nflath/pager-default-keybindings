@@ -10,7 +10,7 @@
 
 ;;; Commentary:
 
-;;;This package setq the suggested keybindings for pager
+;;;This package sets the suggested keybindings for pager
 
 ;;; Installation:
 
