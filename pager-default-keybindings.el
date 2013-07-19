@@ -5,6 +5,7 @@
 ;; Author: Nathaniel Flath <nflath@gmail.com>
 ;; URL: http://github.com/nflath/pager-default-keybindings
 ;; Version: 1.1
+;; Package-Requires: ((pager "1.0"))
 
 ;; This file is not part of GNU Emacs.
 
