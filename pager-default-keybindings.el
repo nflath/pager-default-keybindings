@@ -4,7 +4,7 @@
 
 ;; Author: Nathaniel Flath <nflath@gmail.com>
 ;; URL: http://github.com/nflath/pager-default-keybindings
-;; Version: 1.0
+;; Version: 1.1
 
 ;; This file is not part of GNU Emacs.
 
@@ -48,5 +48,5 @@
 (global-set-key '[M-down]  'pager-row-down)
 (global-set-key '[M-kp-2]  'pager-row-down)
 
-(provide 'pager-default-keybinding)
+(provide 'pager-default-keybindings)
 ;;; pager-default-keybindings.el ends here
